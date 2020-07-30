@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+jupyterlab = "*"
+matplotlib = "*"
+pandas-profiling = "*"
+sklearn = "*"
+eli5 = "*"
+pdpbox = "*"
+joblib = "*"
+
+[requires]
+python_version = "3.8"
